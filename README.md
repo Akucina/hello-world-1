@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project
+Github -> Jenkins -> Maven Build -> Ansible Server -> Docker Host -> Docker Hub
