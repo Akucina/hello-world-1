@@ -2,3 +2,4 @@
 <h2> Jenkin uploads war files to Ansible server </h2>
 <h2>Ansible server instructs Docker host to build and upload image to Docker hub</h2>
 Finally, webapp is deployed on Kubernetes on NodePort: 31200 via one Ansible playbook yaml file!
+<p>k8 state from prsent to absent, to generate a deployment</p>
