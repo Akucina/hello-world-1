@@ -6,4 +6,4 @@ Finally, webapp is deployed on Kubernetes on NodePort: 31200 via one Ansible pla
 <p>use tok8s.yml file</p>
 <p>apply: yes</p>
 <p>one more time time</p>
-<p>build 17</p>
+<p>build 19</p>
