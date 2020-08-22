@@ -5,3 +5,4 @@ Finally, webapp is deployed on Kubernetes on NodePort: 31200 via one Ansible pla
 <p>k8 state from prsent to absent, to generate a deployment</p>
 <p>use tok8s.yml file</p>
 <p>apply: yes</p>
+<p>one more time time</p>
